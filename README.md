@@ -1,4 +1,4 @@
-# COWORKING-DB
+# COWORKING DATABASE SYSTEM
 
 This project is designed to manage reservations for workspaces in different rooms and sessions. It allows users to book, cancel, and view reservations, as well as providing detailed information on the availability and occupancy of workspaces.
 
@@ -17,7 +17,7 @@ This project is designed to manage reservations for workspaces in different room
 
 ---
 
-Social networks
-Linkedln: Samuel Vera MirandaSa
-
+## Social networks
+- Linkedln: [Samuel Vera Miranda](https://www.linkedin.com/in/samuelsml/)
+---
 Thank you for watching. 🫡💜
